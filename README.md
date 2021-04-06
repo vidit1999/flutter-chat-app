@@ -2,11 +2,7 @@
 
 ## Chat App UI built with Flutter and ❤️.
 
-<br>
-
 ### To start this app run these commands,
-
-<br>
 
 1. `git clone https://github.com/vidit1999/flutter-chat-app.git`
 
